@@ -1,24 +1,12 @@
 <div align="center">
-  <h1>✨ Niza Urbano Díaz</h1>
+  <h1> Niza Urbano Díaz</h1>
   <p><b>UX/UI Designer & Frontend Developer</b></p>
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Design%20is%20how%20it%20works.&author=Steve%20Jobs" alt="Quote" />
-
-  <br><br>
-
-  <h3>🚀 My Tech Stack</h3>
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,vue,bootstrap,git,github,vscode&theme=dark)](https://skillicons.dev)
+  <p>Me especializo en el desarrollo de interfaces con Vue.js y el diseño de experiencias centradas en el usuario. Mi enfoque combina la precisión técnica del Frontend con la sensibilidad visual del UX/UI para crear productos que no solo funcionen, sino que encanten.</p>
 </div>
 
 ---
 
-### ✦ Sobre mí
-
-Me especializo en el desarrollo de interfaces con **Vue.js** y el diseño de experiencias centradas en el usuario. Mi enfoque combina la precisión técnica del Frontend con la sensibilidad visual del UX/UI para crear productos que no solo funcionen, sino que encanten.
-
----
-
-### 📂 Proyectos Destacados
+### 📂 Proyectos 
 
 #### [☁️ El Tiempo (Weather App)](https://tu-link-aqui.com)
 Dashboard interactivo para ciudades de Chile.
@@ -45,6 +33,3 @@ Sistema de administración con autenticación simulada.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-</div>
