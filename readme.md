@@ -31,7 +31,7 @@ El objetivo fue diseñar una experiencia confiable, accesible y fácil de entend
 
 ## Habilidades
 
-- Investigación UX: Arquitectura de la información, análisis de usuario  
+- Investigación: Arquitectura de la información, análisis de usuario  
 - Diseño UX/UI: Flujos, wireframes, prototipos, UI visual  
 - Frontend: HTML, CSS, JavaScript, Vue.js  
 
