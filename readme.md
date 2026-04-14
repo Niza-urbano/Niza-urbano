@@ -1,35 +1,62 @@
 <div align="center">
   <h1> Niza Urbano Díaz</h1>
   <p><b>UX/UI Designer & Frontend Developer</b></p>
-  <p>Me especializo en el desarrollo de interfaces con Vue.js y el diseño de experiencias centradas en el usuario. Mi enfoque combina la precisión técnica del Frontend con la sensibilidad visual del UX/UI para crear productos que no solo funcionen, sino que encanten.</p>
+
+  <p>
+    Me especializo en el diseño de experiencias centradas en el usuario y el desarrollo de interfaces con Vue.js.
+    Combino la sensibilidad del UX/UI con la lógica del Frontend para crear productos funcionales, intuitivos y visualmente atractivos.
+  </p>
 </div>
 
 ---
 
-### 📂 Proyectos 
+## Proyectos
 
-#### [☁️ El Tiempo (Weather App)](https://tu-link-aqui.com)
-Dashboard interactivo para ciudades de Chile.
-* **Tech:** Vue 3 (Composition API), Bootstrap 5, Vite.
-* **Highlight:** Implementación de carrusel regional y consumo de APIs externas.
+### 🌤️ El Tiempo
+**Frontend | Vue.js + APIs**
 
-#### [🍎 Mi primera comida](https://tu-link-aqui.com)
-Aplicación enfocada en la alimentación guiada.
-* **Tech:** JavaScript, CSS Responsivo.
-* **Highlight:** Diseño de interfaz intuitiva para padres y cuidadores.
+Aplicación del clima desarrollada con Vue.js, integrando APIs externas para obtener datos en tiempo real.  
+Me enfoqué en construir una interfaz clara, dinámica y fácil de usar, optimizando la experiencia del usuario.
 
-#### [👥 Gestión de Usuarios](https://tu-link-aqui.com)
-Sistema de administración con autenticación simulada.
-* **Tech:** Vuex, Vue Router, Axios.
 
 ---
 
-### ✉️ Contacto
+### 🍎 Mi primera comida
+**UX/UI Design**
+
+Proyecto enfocado en acompañar a las familias en la alimentación infantil mediante una app con recetas, guías nutricionales y recomendaciones prácticas.  
+El objetivo fue diseñar una experiencia confiable, accesible y fácil de entender.
+
+---
+
+## Habilidades
+
+- Investigación UX: Arquitectura de la información, análisis de usuario  
+- Diseño UX/UI: Flujos, wireframes, prototipos, UI visual  
+- Frontend: HTML, CSS, JavaScript, Vue.js  
+
+---
+
+##  Herramientas
 
 <p align="left">
-<a href="mailto:niza.urbano@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
 
----
+## Contacto
+
+<p align="left">
+  <a href="mailto:niza.urbano@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+  </a>
+  <a href="https://linkedin.com/in/tu-perfil">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+</p>
 
