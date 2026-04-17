@@ -21,11 +21,14 @@ Me enfoqué en construir una interfaz clara, dinámica y fácil de usar, optimiz
 
 ---
 
-### 🍎 Mi primera comida
+## 🍎 Mi primera comida
 **UX/UI Design**
 
 Proyecto enfocado en acompañar a las familias en la alimentación infantil mediante una app con recetas, guías nutricionales y recomendaciones prácticas.  
 El objetivo fue diseñar una experiencia confiable, accesible y fácil de entender.
+
+🔗 [Ver proyecto completo en Behance](https://www.behance.net/gallery/229854245/Mi-primera-comida)
+
 
 ---
 
