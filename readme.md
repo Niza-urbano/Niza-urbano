@@ -18,6 +18,8 @@
 Aplicación del clima desarrollada con Vue.js, integrando APIs externas para obtener datos en tiempo real.  
 Me enfoqué en construir una interfaz clara, dinámica y fácil de usar, optimizando la experiencia del usuario.
 
+🔗 [Ver proyecto completo](https://clima-app-xi-pink.vercel.app/)
+
 
 ---
 
