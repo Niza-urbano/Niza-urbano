@@ -6,7 +6,7 @@
     Me especializo en el diseño de experiencias centradas en el usuario y el desarrollo de interfaces con Vue.js.
     Combino la sensibilidad del UX/UI con la lógica del Frontend para crear productos funcionales, intuitivos y visualmente atractivos.
 
-   Portafolio: 🔗 [Ver portafolio completo](https://niza-urbano.github.io/Portafolio/)
+   [Ver portafolio](https://niza-urbano.github.io/Portafolio/)
   </p>
 </div>
 
